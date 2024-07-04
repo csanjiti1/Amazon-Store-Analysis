@@ -6,4 +6,9 @@ The dataset contains 4 tables naming: Customers, Orders ,Products ,Returns and S
 Also please find the attached image of the entity-relationship Diagram defined among the tables describing the relation between the tables and the Primary Key defined in each table to provide a clear image on the relationship  and their constraints.
 ![ERD](https://github.com/csanjiti1/Amazon-Store-Analysis/blob/main/Screenshot%202024-07-04%20at%2012.43.33.png)
 
-# Questions 
+# Questions Solved:
+<br>1. Query To find Top 5 Order Details by Sale Amount
+![Top 5 Order Details](https://github.com/csanjiti1/Amazon-Store-Analysis/blob/main/Top%205%20Orders%20By%20sale%20.png)
+
+# Conclusion
+This Project is solely based for learning purpose and data used is a public dataset, and thus used SQL to find solutions to questions to identify some of the insights based out of this dataset. 
